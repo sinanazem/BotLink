@@ -15,7 +15,7 @@ def send_welcome(message):
 
 @bot.message_handler(commands=['link', 'get'])
 def send_welcome(message):
-#    print(readtxt('data.txt'))
+
    bot.send_message(message.chat.id,str(readtxt('data.txt')))
 
 
