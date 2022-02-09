@@ -3,7 +3,7 @@
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" height=250 width=500 />
 <br><br>
-Template to create a telegram bot in python.
+
 
 ## How to Run
 1. Set your telegram bot token as environment variable `TELEGRAM_BOT_TOKEN`:
